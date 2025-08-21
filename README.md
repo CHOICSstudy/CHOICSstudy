@@ -39,6 +39,7 @@
 <p>
 <p align="center">    
     <img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"/>
+    (공부 예정)
 </p>
 
 
